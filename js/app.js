@@ -1,3 +1,5 @@
+
+
 document.querySelector("#equalsButton").addEventListener("click",function() {
     mathSum(
         document.querySelector("#number1").value , 
